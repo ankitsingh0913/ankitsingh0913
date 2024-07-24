@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **ankitsingh21062002@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KcGGt6YjEllATcXIXSSLuJTj48ZZj_Am/view?usp=sharing](https://drive.google.com/file/d/1KcGGt6YjEllATcXIXSSLuJTj48ZZj_Am/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ankitsi69004939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitsi69004939" height="30" width="40" /></a>
@@ -24,3 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh0913&show_icons=true&locale=en&layout=compact" alt="ankitsingh0913" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh0913&" alt="ankitsingh0913" /></p>
