@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ankitsingh21062002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KcGGt6YjEllATcXIXSSLuJTj48ZZj_Am/view?usp=sharing](https://drive.google.com/file/d/1KcGGt6YjEllATcXIXSSLuJTj48ZZj_Am/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KcGGt6YjEllATcXIXSSLuJTj48ZZj_Am/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
