@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [scanner_openCV](https://github.com/ankitsingh0913/scanner_opencv)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ankitsingh0913?tab=repositories](https://github.com/ankitsingh0913?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Repository](https://github.com/ankitsingh0913?tab=repositories)
 
 - 📫 How to reach me **ankitsingh21062002@gmail.com**
 
