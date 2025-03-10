@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsingh0913" alt="ankitsingh0913" /></a> </p>
 
-- 🔭 I’m currently working on [VENUES](https://github.com/ankitsingh0913/Venues)
+- 🔭 I’m currently working on [VENUES](https://github.com/ankitsingh0913/The_Venues)
 
 - 🤝 I’m looking for help with [scanner_openCV](https://github.com/ankitsingh0913/scanner_opencv)
 
