@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **[VENUES](https://github.com/ankitsingh0913/The_Venues)**
+- 🔭 Currently working on **[VENUES](https://github.com/ankitsingh0913/khata)**
 - 🤝 Looking for help with **[scanner_openCV](https://github.com/ankitsingh0913/scanner_opencv)**
 - 👨‍💻 All projects: **[GitHub Repositories](https://github.com/ankitsingh0913?tab=repositories)**
 - 📫 Reach me at: **ankitsingh21062002@gmail.com**
