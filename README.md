@@ -9,6 +9,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ankitsingh0913&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitsingh0913&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh0913" />
+</p>
+
 ---
 
 ### 🚀 About Me
