@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Khata Application<br>👯I'm looking to collaborate on Open Source<br>🌿I'm currently learning Docker<br>💬Ask me about anything
+Software developer focused on building scalable backend systems and high-performance mobile applications. I work across Spring Boot, Flutter, and distributed systems, with a strong interest in integrating AI-driven features into real-world products. Currently exploring system design, event-driven architectures, and production-grade application development.
 
 
 ## 🌐 Socials:
